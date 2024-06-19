@@ -23,7 +23,7 @@ Prerequisites for the workshop
 ![A screen shot of a computer code Description automatically
 generated](./media/image2.png) 
 
-Check the details of the data.
+### Check the details of the data.
 
 ![A black rectangular object with a black stripe Description
 automatically generated](./media/image3.png) 
