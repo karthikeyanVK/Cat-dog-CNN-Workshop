@@ -2,7 +2,7 @@
 Prerequisites for the workshop
 
 -   Download the dataset from the
-    [[dogs-vs-cats]{.underline}](https://theproindia-my.sharepoint.com/:u:/p/karthikeyan/EXbRnIKivSVCm4yi_qAGPSABgZk0PgTOLNdzGRr831sSeA?e=QpwbZb)
+    [[dogs-vs-cats]](https://theproindia-my.sharepoint.com/:u:/p/karthikeyan/EXbRnIKivSVCm4yi_qAGPSABgZk0PgTOLNdzGRr831sSeA?e=QpwbZb)
 
 -   Extract the same in the same folder
 
