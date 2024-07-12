@@ -8,6 +8,16 @@ Prerequisites for the workshop
 
 -   Open and  start working on the cnn-cat-dog-dl-ws.ipynb
 
+- For google colab - run the below command in the cell after creating the shortcut
+
+```
+from google.colab import drive
+drive.mount('/content/drive')
+!ls "/content/drive/My Drive/cat-dog"
+!cp -r  "/content/drive/My Drive/cat-dog" "/content/"
+```
+
+
 ## Notebook 
 
 - Add the code from the given reference and run the cell.
